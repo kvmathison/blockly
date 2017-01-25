@@ -25,6 +25,7 @@
 'use strict';
 
 goog.provide('Blockly.Blocks');
+goog.require('Blockly.Parameter');
 
 /**
  * Allow for switching between one and zero based indexing for lists and text,
